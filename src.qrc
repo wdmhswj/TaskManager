@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>ikun.png</file>
+        <file>register.jpg</file>
+    </qresource>
+</RCC>
